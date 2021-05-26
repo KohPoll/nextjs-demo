@@ -8,7 +8,7 @@ export default function Test() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <div>A Test Page！！！</div>
+      <div>~!!!A Test Page！！！~</div>
     </div>
   )
 }
